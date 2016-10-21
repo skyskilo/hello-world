@@ -1,2 +1,2 @@
 # hello-world
-Starting up using Git
+I am starting to your GIT Hub.. Loving it kraa
